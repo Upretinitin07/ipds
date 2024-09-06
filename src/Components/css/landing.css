@@ -1,0 +1,30 @@
+.main{
+    height: 100vh;
+    background-color: #402E7A; 
+    position: absolute;
+    left:34vh;
+    right: 0;
+    top:0;
+    bottom:0 ;
+    color: aliceblue;
+}
+.font-link {
+  font-family: "Anton", sans-serif;
+    font-size: 15vh;
+    position:absolute;
+    margin-top: 30vh;
+    margin-left: 5vh;
+  }
+  .font-link1{
+    font-family: "Anton", sans-serif;
+    font-size: 4.5vh;
+    position:absolute;
+    margin-top: 45vh;
+    margin-left: 5vh;
+  }
+
+
+.l1{
+height: 90vh;
+margin-left: 60vh;  
+}
